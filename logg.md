@@ -19,5 +19,8 @@ Jeg fikk ballen til å gjøre som den skulle. Må fortsatt få Player 1 sin padd
 Jeg har ikke jobbet med prosjektet denne timen. Det eneste jeg har gjort som har vært relevant er å rote rundt med ssh fordi jeg klarer å ødelegge det hele tiden tydeligvis. Jeg har bare jobbet med et prosjekt vi har i mediefagene.
 
 ### To do
-Samme som forrige dag.
+1. Samme som forrige dag.
+2. Jeg har også tenkt å legge ut spillet mitt på github pages, sånn at hvem som helst kan nå det fra hvor som helst.
+3. Skrive refleksjonsnotat når jeg er ferdig
+4. Flytte To Do til toppen
 
