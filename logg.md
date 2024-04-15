@@ -11,6 +11,13 @@ Det kan se ut til at ballen ikke gjør noen ting, og at jeg må finne ut hvordan
 Jeg fikk ballen til å gjøre som den skulle. Må fortsatt få Player 1 sin paddle til å gjøre noe.
 
 ### To do
-Putte style på egen fil
-Få Player 1 til å kunne gjøre noe
-Lære meg hva de delene av koden jeg ikke forstår gjør
+1. Putte style på egen fil
+2. Få Player 1 til å kunne gjøre noe
+3. Lære meg hva de delene av koden jeg ikke forstår gjør
+
+## Dag 2
+Jeg har ikke jobbet med prosjektet denne timen. Det eneste jeg har gjort som har vært relevant er å rote rundt med ssh fordi jeg klarer å ødelegge det hele tiden tydeligvis. Jeg har bare jobbet med et prosjekt vi har i mediefagene.
+
+### To do
+Samme som forrige dag.
+
