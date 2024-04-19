@@ -3,9 +3,9 @@ Her skriver jeg hva jeg har gjort i de forskjellige timene. Og en "To do" liste.
 
 ## To do
 1. ~~Få Player 1 til å kunne gjøre noe~~
-2. Putte style på en egen fil
+2. ~~Putte style på en egen fil~~
 3. ~~Lære meg hva koden gjør? Eneste jeg ikke forstår helt er canvas.~~
-4. Få lagt ut spillet på GitHub pages.
+4. ~~Få lagt ut spillet på GitHub pages.~~
 5. Skrive refleksjonsnotat.
 6. ~~Flytte To do til toppen.~~
 7. ~~Convert document to 2 spaces instead of 4.~~
