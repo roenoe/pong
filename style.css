@@ -1,0 +1,6 @@
+/* Optional CSS styles for the canvas */
+#pongCanvas {
+  background-color: #000000;
+  display: block;
+  margin: 0 auto;
+}
