@@ -2,11 +2,30 @@
 const canvas = document.getElementById("pongCanvas");
 const ctx = canvas.getContext("2d");
 
+// Find and save settings
+const startSpeedValue = document.getElementById("startSpeed")
+const xIncValue = document.getElementById("xInc")
+const yIncValue = document.getElementById("yInc")
+const settingsBtn = document.getElementById("settingsBtn")
+
+settingsBtn.addEventListener('click', difficulty)
+
 // Difficulty and game length
-let startSpeed = 3
-let xInc = 0.5
-let yInc = 0.2
-//let endPoint = 11
+let startSpeed = 0
+let xInc = 0
+let yInc = 0
+let endPoint = 0
+
+function difficulty() {
+  if (startSpeedValue.value >= 1 && startSpeedValue.value <= 6) {startSpeed = parseInt(startSpeedValue.value)}
+  else{startSpeed = 3}
+  if (xIncValue.value >= 1 && xIncValue.value <= 20) {xInc = parseInt(xIncValue.value)*0.1}
+  else{xInc = 0.5}
+  if (yIncValue.value >= 0 && yIncValue.value <= 20) {yInc = parseInt(xIncValue.value)*0.1}
+  else{yInc = 0.3}
+}
+
+difficulty()
 
 // Ball properties
 let ball = {
