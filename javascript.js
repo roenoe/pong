@@ -11,21 +11,22 @@ const settingsBtn = document.getElementById("settingsBtn")
 settingsBtn.addEventListener('click', difficulty)
 
 // Difficulty and game length
-let startSpeed = 0
-let xInc = 0
-let yInc = 0
+let startSpeed = 2
+let xInc = 0.5
+let yInc = 0.5
 let endPoint = 0
 
 function difficulty() {
-  if (startSpeedValue.value >= 1 && startSpeedValue.value <= 6) {startSpeed = parseInt(startSpeedValue.value)}
-  else{startSpeed = 3}
-  if (xIncValue.value >= 1 && xIncValue.value <= 20) {xInc = parseInt(xIncValue.value)*0.1}
-  else{xInc = 0.5}
-  if (yIncValue.value >= 0 && yIncValue.value <= 20) {yInc = parseInt(xIncValue.value)*0.1}
-  else{yInc = 0.3}
+  if (startSpeedValue.value >= 1 && startSpeedValue.value <= 6 && startSpeedValue.value != ""){
+    startSpeed = parseInt(startSpeedValue.value)} else{startSpeed = 3}
+  
+  if (xIncValue.value >= 1 && xIncValue.value <= 20 && xIncValue.value != "") {
+    xInc = parseInt(xIncValue.value)*0.1} else{xInc = 0.5}
+  
+  if (yIncValue.value >= 0 && yIncValue.value <= 20 && yIncValue.value != "") {
+    yInc = parseInt(yIncValue.value)*0.1} else{yInc = 0.3}
+  
 }
-
-difficulty()
 
 // Ball properties
 let ball = {

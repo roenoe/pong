@@ -11,8 +11,7 @@ Her skriver jeg hva jeg har gjort i de forskjellige timene. Og en "To do" liste.
 7. ~~Convert document to 2 spaces instead of 4.~~
 8. ~~Endre controls til player 2 fra arrowkeys til o og l.~~
 9. ~~Gjøre at ballen går fortere og fortere.~~
-10. Lage en victory screen.
-11. ~~Spørre om variabler til spillet~~
+10. ~~Spørre om variabler til spillet~~
 
 ## Dag 1
 Hele første timen rotet jeg rundt med ssh og mobildata for å prøve å få til å få dette prosjektet på github. Fikk det til 2 minutter etter at det ble friminutt.
@@ -35,5 +34,8 @@ Jeg flyttet også checken for hvorvidt en paddle er out of bounds inn til sin eg
 
 Så gjorde jeg at etter hvert som spillet gikk ble ballen fortere, sånn at spillet faktisk kan ta slutt etter hvert. Jeg la det inn som en variabel sånn at jeg kan spørre brukeren om hva de vil ha der senere.
 
-##Dag 4
+## Dag 4
 Jeg lagde felt der man kan skrive inn hvilke variabler man vil ha i spillet. Hadde ikke veldig god tid til å skrive logg.
+
+## Dag 5
+Jeg squishet en veldig slitsom bug. Hadde skrevet én bokstav feil.
