@@ -6,7 +6,7 @@ Her skriver jeg hva jeg har gjort i de forskjellige timene. Og en "To do" liste.
 2. ~~Putte style på en egen fil~~
 3. ~~Lære meg hva koden gjør? Eneste jeg ikke forstår helt er canvas.~~
 4. ~~Få lagt ut spillet på GitHub pages.~~
-5. Skrive refleksjonsnotat.
+5. ~~Skrive refleksjonsnotat.~~
 6. ~~Flytte To do til toppen.~~
 7. ~~Convert document to 2 spaces instead of 4.~~
 8. ~~Endre controls til player 2 fra arrowkeys til o og l.~~
@@ -39,3 +39,5 @@ Jeg lagde felt der man kan skrive inn hvilke variabler man vil ha i spillet. Had
 
 ## Dag 5
 Jeg squishet en veldig slitsom bug. Hadde skrevet én bokstav feil.
+
+Skrev et lite refleksjonsnotat.
